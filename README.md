@@ -10,3 +10,4 @@ Handmade toolset for learning.
 - 📁`AES-2.py`: Provide user input and, password protected functionality.
 - 📁`AES-3.py`: Provide user input as file parameter, and store te key to file, provide savving file functionality
 - 📁`AES-4.py`: Secure key restrival by using Fernet
+- 📁`AES-CFB.py`: Implement AES CFB mode encrypt/decrypt iwth no `Cryto` module and `AES` modules
